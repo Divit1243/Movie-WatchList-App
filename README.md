@@ -1,0 +1,1 @@
+Developed a dynamic web application using Spring Boot and Thymeleaf to manage a personalized movie watchlist. Users can easily add, view, and prioritize their favorite movies, complete with ratings and comments. Leveraged H2 in-memory database for seamless data storage. Designed with a modern and intuitive user interface for optimal user experience.
